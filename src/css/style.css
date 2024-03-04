@@ -1,0 +1,36 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header{
+    position: absolute;
+    top: 0;
+    right: 0;
+    left: 0;
+    z-index: 1;
+}
+#nav{
+    display: flex;
+    padding: 30px;
+
+}
+#navbar{
+    padding-left: 200px;
+    
+}
+.form{
+    border: 2px solid black;
+    width: 400px;
+    margin-left: 420px;
+    margin-top: 70px;
+    border-radius: 20px;
+    box-shadow: rgba(255, 255, 255, 0.137) inset 5px 5px 5px 5px;
+}.i-from{
+    margin-left: 20px;
+    background-color: transparent;
+}.i-fromm{
+    margin-left: 90px;
+    background-color: transparent;
+}

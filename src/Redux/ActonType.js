@@ -1,0 +1,5 @@
+export const SIGNUP="SIGNUP"
+export const LOGIN = "LOGIN"
+export const ADDPRODUCTS = "ADDPRODUCTS"
+export const GETPRODUCT = "GETPRODUCT"
+export const DELET = "DELET"
